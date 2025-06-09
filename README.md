@@ -6,4 +6,4 @@ Recursos utilizados: HTML e CSS.
 
 Link vercel:https://agrinho-2025-lyart.vercel.app/
 
-Link GitHub:
+Link GitHub:https://kauanpatrocinio.github.io/agrinho-2025/
